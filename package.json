@@ -1,0 +1,31 @@
+{
+  "name": "jblink",
+  "version": "1.0.0",
+  "description": "THis is my modern gulp css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreativjamesz/JBLINK.git"
+  },
+  "keywords": [
+    "jb",
+    "jblink",
+    "jblink",
+    "css",
+    "framework",
+    "jblink",
+    "\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cmodern",
+    "css",
+    "framework",
+    "\u001b[k"
+  ],
+  "author": "James Billy Vasig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kreativjamesz/JBLINK/issues"
+  },
+  "homepage": "https://github.com/kreativjamesz/JBLINK#readme"
+}
